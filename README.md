@@ -17,7 +17,7 @@ If you want to add a word, you can add in  wordbooks.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/junseok-jay/Personal-word-quiz.git
+   git clone https://github.com/junseok-jay/wordquiz.git
    ```
 
 2. **Compile the code:**
